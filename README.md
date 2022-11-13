@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+My name is Cristian Perafan and I'm a software engineering student 💻 in the Icesi University in Colombia, I'm interesting on learning about new technologies as Blockchain and Artificial Intelligence 🤖.
+
+- 🔭 I’m currently working on:
+  - Neural network for a car 🚗 that drives itself with Java Script without a library:
+    [Self dryving car](https://github.com/CristianPerafan/neural_networks_self_dryving_car.git).
+  
+  
+  
 
 <!--
 **CristianPerafan/CristianPerafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
