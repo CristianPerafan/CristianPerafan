@@ -10,8 +10,7 @@ My name is Cristian Perafan and I'm a software engineering student 💻 in the I
     [Google AI Course](https://colab.research.google.com/drive/1tF4VJUfRilBsvVnL5QqptqEOnLU5LqLh?usp=sharing).
   
 ## My github stats
-<img src="https://github.com/CristianPerafan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/CristianPerafan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+
 
 
 <!--
