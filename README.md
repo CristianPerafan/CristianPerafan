@@ -1,31 +1,37 @@
-## Hi there 👋
-My name is Cristian Perafan and I'm a software engineering student 💻 in the Icesi University in Colombia, I'm interesting on learning about new technologies as Blockchain and Artificial Intelligence 🤖.
-
-- 🔭 I’m currently working on:
-  - Python Projecs
-      - [REST API with Django to manage human resources](https://github.com/CristianPerafan/DjangoHRManagementAPI)
-        
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Cristian Perafan</a> 👋</h1>
+</div>
+<img src="https://i.postimg.cc/MH83NV8R/Banner.png">
 
 
-  
-- 🌱 I’m currently learning:
+## Aboute me
 
-  
-## My github stats
+- 📘 Icesi University 💙 Software Engineer 6th semester 💻
+-  🐍 Python developer 🔥
+
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Human Resources Managment API-REST</h3>
+<div align="center">
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.postimg.cc/SK1rFPwc/hrma-APIREST.jpg" width="400" alt="Human Resources Managment API-REST"></a>
+<p>
+<a href="https://github.com/CristianPerafan/DjangoHRManagementAPI" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
+<p>Human Resources Managment <strong>API-REST</strong> - Developed an advanced REST API with Django to manage human resources, including authentication, custom reports, notifications and security, with a focus on scalability and efficient maintenance..</p>
+</div>                                                                                     
+</td>
+</table>                                                                                 
+</div>
+<br>
 
 
 
-<!--
-**CristianPerafan/CristianPerafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
