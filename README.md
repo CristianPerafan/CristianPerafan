@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Human Resources Managment API-REST</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.postimg.cc/SK1rFPwc/hrma-APIREST.jpg" width="400" alt="Human Resources Managment API-REST"></a>
+<a href=""><img src="https://i.postimg.cc/SK1rFPwc/hrma-APIREST.jpg" width="400" alt="Human Resources Managment API-REST"></a>
 <p>
 <a href="https://github.com/CristianPerafan/DjangoHRManagementAPI" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -26,6 +26,21 @@
 <p>Human Resources Managment <strong>API-REST</strong> - Developed an advanced REST API with Django to manage human resources, including authentication, custom reports, notifications and security, with a focus on scalability and efficient maintenance..</p>
 </div>                                                                                     
 </td>
+
+<td width="50%">
+<h3 align="center">Snake Game with Reinforcement Learning in Python</h3>
+<div align="center">
+<a href=""><img src="https://i.postimg.cc/t4H2ktqN/Snake-Game-AI-1.png" width="400" alt="Human Resources Managment API-REST"></a>
+<p>
+<a href="https://github.com/CristianPerafan/SnakeAI" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
+<p>Snake Game with <strong>Reinforcement Learning</strong> - The goal is to train an AI to play the Snake Game using Reinforcement Learning.This project is built using Python.</p>
+</div>                                                                                     
+</td>
+
 </table>                                                                                 
 </div>
 <br>
