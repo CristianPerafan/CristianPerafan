@@ -28,16 +28,16 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Snake Game with Reinforcement Learning in Python</h3>
+<h3 align="center">Model for Sentiment Analysis</h3>
 <div align="center">
-<a href=""><img src="https://i.postimg.cc/t4H2ktqN/Snake-Game-AI-1.png" width="400" alt="Human Resources Managment API-REST"></a>
+<a href=""><img src="https://i.postimg.cc/Gmpd6RVj/Sentiment-Analysis-Model.png" width="400" alt="Human Resources Managment API-REST"></a>
 <p>
-<a href="https://github.com/CristianPerafan/SnakeAI" target="_blank">
+<a href="https://github.com/CristianPerafan/sentiment-analysisModel-ti2" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
-<p>Snake Game with <strong>Reinforcement Learning</strong> - The goal is to train an AI to play the Snake Game using Reinforcement Learning.This project is built using Python.</p>
+<p>Sentiment Analysis with <strong>Supervised Learning </strong> - The goal of this project is to build a sentiment analysis model using supervised learning with vanilla Recurrent Neural Networks and LSTM.</p>
 </div>                                                                                     
 </td>
 
