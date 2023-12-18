@@ -30,7 +30,7 @@
 <td width="50%">
 <h3 align="center">Model for Sentiment Analysis</h3>
 <div align="center">
-<a href=""><img src="https://i.postimg.cc/Gmpd6RVj/Sentiment-Analysis-Model.png" width="400" alt="Human Resources Managment API-REST"></a>
+<a href=""><img src="https://i.postimg.cc/Gmpd6RVj/Sentiment-Analysis-Model.png" width="400" alt="Model for Sentiment Analysis"></a>
 <p>
 <a href="https://github.com/CristianPerafan/sentiment-analysisModel-ti2" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -40,6 +40,25 @@
 <p>Sentiment Analysis with <strong>Supervised Learning </strong> - The goal of this project is to build a sentiment analysis model using supervised learning with vanilla Recurrent Neural Networks and LSTM.</p>
 </div>                                                                                     
 </td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Full Stack Social Media App | React JS - Appwrite</h3>
+<div align="center">
+<a href=""><img src="https://i.postimg.cc/0ytLMfzY/Full-Stack-Social-Media-App.png" width="400" alt="Full Stack Social Media App | React JS - Appwrite"></a>
+<p>
+<a href="https://github.com/CristianPerafan/FullStackSocialMediaApp" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
+<p>Full Stack Social Media App with <strong>React JS, Appwrite, Tailwind CSS, React Query </strong> - This is a full stack social media app built with React. It uses appwrite as a backend service for authentication and storage. It also uses react-router-dom for routing..</p>
+</div>                                                                                     
+</td>
+  
+</tr>
+
+
 
 </table>                                                                                 
 </div>
