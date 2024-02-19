@@ -6,7 +6,7 @@
 
 ## Aboute me
 
-- 📘 Icesi University 💙 Software Engineer 6th semester 💻
+- 📘 Icesi University 💙 Software Engineer 7th semester 💻
 -  🐍 Python developer 🔥
 
 ## Projects
