@@ -8,7 +8,7 @@
 
 - 📘 Icesi University 💙 Software Engineer 7th semester 💻
 -  🐍 FullStack developer 🔥
-- Icesi University 💙 Software Engineer 7th semester
+
 
 ## Projects
 
