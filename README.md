@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://aristi.dev">Cristian Perafan</a> 👋</h1>
 </div>
-<img src="https://i.postimg.cc/MH83NV8R/Banner.png">
+<img src="https://i.postimg.cc/W1Pchjq2/github-banner.png">
 
 
 ## Aboute me
