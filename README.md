@@ -6,8 +6,10 @@
 
 ## Aboute me
 
-- 📘 Icesi University 💙 Software Engineer 7th semester 💻
--  🐍 FullStack developer 🔥
+I am a Software Engineer with a deep interest in developing innovative solutions in Artificial Intelligence 🤖, Cybersecurity 🔐, and Blockchain ⛓️. I excel in extracting relevant features from a problem, as well as my ability to solve challenges under pressure. Additionally, I have the capacity to communicate and explain complex technical concepts clearly and effectively.
+
+- 📘 Icesi University 💙 Software Engineer 8th semester 💻
+
 
 
 ## Projects
@@ -15,23 +17,23 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Human Resources Managment API-REST</h3>
+<h3 align="center">Lokirecon - Tool for Open Source Intelligence</h3>
 <div align="center">
-<a href=""><img src="https://i.postimg.cc/SK1rFPwc/hrma-APIREST.jpg" width="400" alt="Human Resources Managment API-REST"></a>
+<a href=""><img src="https://i.postimg.cc/kgfCZzDq/loki-Recon.png"  alt="Lokirecon - Tool for Open Source Intelligence"></a>
 <p>
-<a href="https://github.com/CristianPerafan/DjangoHRManagementAPI" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/CristianPerafan/lokiRecon" target="_blank">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
-<p>Human Resources Managment <strong>API-REST</strong> - Developed an advanced REST API with Django to manage human resources, including authentication, custom reports, notifications and security, with a focus on scalability and efficient maintenance..</p>
+<p>A personal project focused on integrating <strong> Large Language Models (LLMs)</strong> with open-source intelligence  <strong>(OSINT)</strong> techniques for reconnaissance.</p>
 </div>                                                                                     
 </td>
 
 <td width="50%">
 <h3 align="center">Model for Sentiment Analysis</h3>
 <div align="center">
-<a href=""><img src="https://i.postimg.cc/Gmpd6RVj/Sentiment-Analysis-Model.png" width="400" alt="Model for Sentiment Analysis"></a>
+<a href=""><img src="https://i.postimg.cc/brzLKCZf/Sentimen-Analysis.png"  alt="Model for Sentiment Analysis"></a>
 <p>
 <a href="https://github.com/CristianPerafan/sentiment-analysisModel-ti2" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
